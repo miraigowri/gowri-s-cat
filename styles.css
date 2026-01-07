@@ -1,0 +1,46 @@
+.navbar{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    background: #3306c6;
+    outline: none;
+    border-radius: 40px;
+    align-items:center;
+    margin:auto;
+}
+.home{
+    display: block;
+    color:#310ce9;
+}
+.home img{
+    width:300px;
+    height:280px;
+    border: black 1px solid;
+    border-radius:200px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(244, 54, 6);
+    font-weight: bold;
+    padding: 10px;
+}
+.about{
+    display:block;
+    color:#310ce9;
+}
+.about img{
+    width:250px;
+    height:200px;
+    border: black 1px solid;
+    border-radius:500px;
+    margin: 5px;
+
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: #919363;
+}
